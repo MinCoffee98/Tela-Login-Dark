@@ -3,7 +3,7 @@ TELA DE LOGIN COM TEMA DARK | HTML + CSS
 
 
 <h2> LINKS </h2>
-https://storyset.com/ (Site ara customizar e animar) 
+https://storyset.com/ (Site para customizar e animar) 
 
 https://fonts.google.com/ (GoogleFonts)
 
